@@ -15,4 +15,4 @@
 - ⬇ - to change colour of the bottom field
 - ➡ - to change colour of the right field
 
--To start this game, import file or code to the file working with Java compiler
+- To start this game, import file or code to the file working with Java compiler
