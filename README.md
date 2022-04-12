@@ -5,12 +5,14 @@
 - -Bottom,
 - -Left,
 - -Center.
- -Every single start you'll have different order of colours.
- -After 10 seconds this order of colours is sorted again.
- -Goal is to match colours with fields like in the beginning.
- -Once you've put colours correctly, the game stops.
- -Controls:
+- -Every single start you'll have different order of colours.
+- -After 10 seconds this order of colours is sorted again.
+- -Goal is to match colours with fields like in the beginning.
+- -Once you've put colours correctly, the game stops.
+- -Controls:
 - ⬅ - to change colour of the left field
 - ⬆ - to change colour of the top field
 - ⬇ - to change colour of the bottom field
 - ➡ - to change colour of the right field
+
+-To start this game, import file or code to the file working with Java compiler
